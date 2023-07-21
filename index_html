@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Linda's Favorite Dog Breeds</title>
+</head>
+<body>
+	<h1>Linda's Favorite Dog Breeds</h1>
+<p> I love dogs, really almost any breed of dog! However, there are a few favorites that I would like to list. </p>
+<ol>
+    <li> Rescue</li>
+    <li> English Mastiff</li>
+    <li> Rottweiller</li>
+</ol>
+</body>
+</html>

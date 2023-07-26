@@ -1,0 +1,44 @@
+.ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+}
+.nav {
+	background-color: pink;
+}
+	.li {
+		 display: block;
+       color: black;
+       text-align: center;
+       padding: 16px;
+       text-decoration: none;
+		float: left;
+	}
+	.li2 {
+		 display: block;
+       color: black;
+       text-align: center;
+       padding: 16px;
+       text-decoration: none;
+		float: left;
+	}
+	.li3 {
+		 display: block;
+       color: black;
+       text-align: center;
+       padding: 16px;
+       text-decoration: none;
+		float: left;
+	}
+	.li4 {
+		 display: block;
+       color: black;
+       text-align: center;
+       padding: 16px;
+       text-decoration: none;
+		float: left;
+	}
+.footer {
+	background: pink;
+}

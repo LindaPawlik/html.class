@@ -7,34 +7,15 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Linda's Favorite Dog Breeds</title>
 </head>
-<header>
-	<nav>
-		<ul>
-			<a>Rescue</a>
-			<li>English Mastiff</li>
-			<li>Rottweiller</li>
-		</ul>
-	</nav>
-</header>
 
 <body>
-	<main>
-		<section>
-			<h2>Linda's Favorite Dog Breeds</h1>
-				<p> I love dogs, really almost any breed of dog! However, there are a few favorites that I would like to list. </p>
-				<img src="https://images.unsplash.com/photo-1529472119196-cb724127a98e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9nc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Picture of at least 8 different dogs" class="src">
-
-	</main>
-	</section>
-	<aside>
-		<a href="https://www.petfinder.com/search/dogs-for-adoption/us/mn/saint-paul/"></a>
-		<a href="https://en.wikipedia.org/wiki/English_Mastiff" </a>
-			<a href="https://en.wikipedia.org/wiki/Rottweiler" </a>
-	</aside>
+	<h1>Linda's Favorite Dog Breeds</h1>
+	<p> I love dogs, really almost any breed of dog! However, there are a few favorites that I would like to list. </p>
+	<ol>
+		<li> Rescue</li>
+		<li> English Mastiff</li>
+		<li> Rottweiller</li>
+	</ol>
 </body>
-<footer>
-	<p>Linda Pawlik<br>copyright 2023<br> all rights reserved
-	</p>
-</footer>
 
 </html>
